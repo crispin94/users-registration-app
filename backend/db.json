@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "cris",
+      "email": "dedd@mail.com",
+      "age": "44",
+      "phone": "7209146711",
+      "address": "villa victoria estado de mexico"
+    },
+    {
+      "name": "abraham crispin ",
+      "email": "crispinnn@mail.com",
+      "age": "31",
+      "phone": "2321123444",
+      "address": "los cedros villa vic"
+    }
+  ]
+}
